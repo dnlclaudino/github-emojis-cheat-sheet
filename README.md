@@ -278,7 +278,6 @@ Estes emojis são automaticamente gerados a partir do [GitHub Emoji API](https:/
 | [top](#people--body) | :bone: | `:bone:` | :eyes: | `:eyes:` | [top](#table-of-contents) |
 | [top](#people--body) | :eye: | `:eye:` | :tongue: | `:tongue:` | [top](#table-of-contents) |
 | [top](#people--body) | :lips: | `:lips:` | | | [top](#table-of-contents) |
-
 | [top](#people--body) | :construction_worker: | `:construction_worker:` | :construction_worker_man: | `:construction_worker_man:` | [top](#table-of-contents) |
 | [top](#people--body) | :construction_worker_woman: | `:construction_worker_woman:` | :prince: | `:prince:` | [top](#table-of-contents) |
 | [top](#people--body) | :princess: | `:princess:` | :person_with_turban: | `:person_with_turban:` | [top](#table-of-contents) |
