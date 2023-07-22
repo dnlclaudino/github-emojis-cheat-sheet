@@ -402,7 +402,6 @@ Estes emojis são automaticamente gerados a partir do [GitHub Emoji API](https:/
 | [top](#people--body) | :speaking_head: | `:speaking_head:` | :bust_in_silhouette: | `:bust_in_silhouette:` | [top](#table-of-contents) |
 | [top](#people--body) | :busts_in_silhouette: | `:busts_in_silhouette:` | :people_hugging: | `:people_hugging:` | [top](#table-of-contents) |
 | [top](#people--body) | :footprints: | `:footprints:` | | | [top](#table-of-contents) |
-
 | - | :-: | - | :-: | - | - |
 | [top](#food--drink) | :grapes: | `:grapes:` | :melon: | `:melon:` | [top](#table-of-contents) |
 | [top](#food--drink) | :watermelon: | `:watermelon:` | :mandarin: | `:mandarin:` <br /> `:orange:` <br /> `:tangerine:` | [top](#table-of-contents) |
